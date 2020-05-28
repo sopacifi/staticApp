@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   template: `<div>Hello {{value}}</div>`,
 })
 export class AppComponent {
-  value = 'Static app staging enviroment';
+  value = 'Static app staging enviroment true';
 }
